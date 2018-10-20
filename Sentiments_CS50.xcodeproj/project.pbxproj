@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		13611B6B217BAE3300F0772A /* Sentiments_cwsehn-cs50-2017-x-pset6 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Sentiments_cwsehn-cs50-2017-x-pset6"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		13611B64217BAE1800F0772A = {
 			isa = PBXGroup;
 			children = (
+				13611B6B217BAE3300F0772A /* Sentiments_cwsehn-cs50-2017-x-pset6 */,
 			);
 			sourceTree = "<group>";
 		};
